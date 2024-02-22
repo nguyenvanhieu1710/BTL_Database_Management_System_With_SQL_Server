@@ -1,0 +1,11 @@
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\bin\Debug\BLL.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\bin\Debug\BLL.pdb
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\bin\Debug\DAL.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\bin\Debug\DTO.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\bin\Debug\DAL.pdb
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\bin\Debug\DTO.pdb
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\obj\Debug\BLL.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\BLL\obj\Debug\BLL.pdb

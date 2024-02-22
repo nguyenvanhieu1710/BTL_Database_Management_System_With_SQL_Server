@@ -1,0 +1,17 @@
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\bin\Debug\GUI.exe.config
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\bin\Debug\GUI.exe
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\bin\Debug\GUI.pdb
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\bin\Debug\DTO.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\bin\Debug\DTO.pdb
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\obj\Debug\GUI.DeMo.resources
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\obj\Debug\GUI.exe
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\obj\Debug\GUI.pdb
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\bin\Debug\BLL.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\bin\Debug\DAL.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\bin\Debug\BLL.pdb
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\GUI\bin\Debug\DAL.pdb

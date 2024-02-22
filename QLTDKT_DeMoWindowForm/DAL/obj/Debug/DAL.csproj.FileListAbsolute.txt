@@ -1,0 +1,9 @@
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DAL\bin\Debug\DAL.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DAL\bin\Debug\DAL.pdb
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DAL\bin\Debug\DTO.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DAL\bin\Debug\DTO.pdb
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DAL\obj\Debug\DAL.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DAL\obj\Debug\DAL.pdb

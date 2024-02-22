@@ -1,0 +1,11 @@
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\bin\Debug\S35_TranThuHien_QLCT.exe.config
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\bin\Debug\S35_TranThuHien_QLCT.exe
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\bin\Debug\S35_TranThuHien_QLCT.pdb
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\obj\Debug\S35_TranThuHien_QLCT.csproj.AssemblyReference.cache
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\obj\Debug\S35_TranThuHien_QLCT.ChiTieu.resources
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\obj\Debug\S35_TranThuHien_QLCT.Properties.Resources.resources
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\obj\Debug\S35_TranThuHien_QLCT.SinhVien.resources
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\obj\Debug\S35_TranThuHien_QLCT.csproj.GenerateResource.cache
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\obj\Debug\S35_TranThuHien_QLCT.csproj.CoreCompileInputs.cache
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\obj\Debug\S35_TranThuHien_QLCT.exe
+D:\Bài tập lớn SQL SERVER\S35_TranThuHien_QLCT\S35_TranThuHien_QLCT\obj\Debug\S35_TranThuHien_QLCT.pdb

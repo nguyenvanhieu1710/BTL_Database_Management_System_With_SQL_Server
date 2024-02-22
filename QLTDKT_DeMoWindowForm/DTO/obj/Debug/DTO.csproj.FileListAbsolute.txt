@@ -1,0 +1,6 @@
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DTO\bin\Debug\DTO.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DTO\bin\Debug\DTO.pdb
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DTO\obj\Debug\DTO.dll
+D:\Bài tập lớn SQL SERVER\QLTDKT_DeMoWindowForm\DTO\obj\Debug\DTO.pdb
